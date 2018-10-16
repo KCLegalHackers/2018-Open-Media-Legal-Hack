@@ -18,6 +18,8 @@ Come learn about the origins of the Open Media Legal Hack, what Legal Hackers do
 
 * _Happy Hour_
 5:30 pm - 7:00 pm
+
+
 ------
 ## October 27th, Day 1 at [Plexpod Crossroads](https://www.plexpod.com/locations/crossroads/)
 
