@@ -32,13 +32,13 @@ Come learn about the origins of the Open Media Legal Hack, what Legal Hackers do
 -----
 ### Learn
 
-The Learn Track will take place from 11:00 am - 2:00 pm, with a break for lunch at 1:00 pm. During this time period, there will be a freeflowing discussion on what the legal and practical landscape looks like for intellectual property rights and contract rights, discuss some basic strategies for how creators can protect their rights, and look at the ways emerging technologies might impact this arena. 
+The Learn Track will take place from 11:00 am - 2:00 pm, with a break for lunch at 12:00 pm. During this time period, there will be a freeflowing discussion on what the legal and practical landscape looks like for intellectual property rights and contract rights, discuss some basic strategies for how creators can protect their rights, and look at the ways emerging technologies might impact this arena. 
 
 * _Intellectual Property Roundtable for Creators_
 11:00 am - 12:00 pm
 
 * _Contracts Roundtable for Creators_
-1:00 pm - 2 pm
+1:00 pm - 2:00 pm
 
 -----
 ### Build
