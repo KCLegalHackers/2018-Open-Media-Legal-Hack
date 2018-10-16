@@ -8,7 +8,7 @@ Over the weekend of October 27th and 28th, KC Legal Hackers is partnering with [
 
 Kansas City Legal Hackers joins a number of cities, including New York, Boston, Washington D.C., San Francisco, Dallas, Houston, Sao Paulo, Vienna, and Tokyo in hosting a node of a distributed event to hack artist ownership and contract rights for digital music and media. The event will occur online through a series of live hangouts, telegram group chats, and in-person through meetups distributed around the world. The activities include team projects and small group discussions focused on solving key problems and generating new ideas. The event will conclude with the creation of a digital media gallery at openmedia.space and a unified summary of each nodes participation at [legalhackathon.org](legalhackathon.org). 
 
-If you are interested in participating in our node, reserve your spot on [Eventbrite](open-media-legal-hack-kc.eventbrite.com)
+If you are interested in participating in our node, reserve your spot on [Eventbrite](https://www.eventbrite.com/e/open-media-legal-hack-kansas-city-tickets-50328683447)
 
 
 ## Schedule
