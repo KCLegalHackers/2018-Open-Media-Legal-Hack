@@ -11,6 +11,10 @@ Kansas City Legal Hackers joins a number of cities, including New York, Boston, 
 If you are interested in participating in our node, reserve your spot on [Eventbrite](https://www.eventbrite.com/e/open-media-legal-hack-kansas-city-tickets-50328683447)
 
 
+[Event Slides](https://docs.google.com/presentation/d/1dY2zP8tjhnc_in0XhezP9erQbU119PYGUFxgRTR7D6E/edit?usp=sharing)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-59FpKqgPZi4D5lLxSCvNXe_d_sXRoEqEEU0eQiNiIATUQMO4Qa10JpZdwUmUMEt7sX4zH0kBjWVs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 ## Schedule
 ------
 ## October 23rd, Happy Hour at [Ruins Pub](http://ruinspubkc.com/)
