@@ -14,6 +14,7 @@ If you are interested in participating in our node, reserve your spot on [Eventb
 [Event Slides](https://docs.google.com/presentation/d/1dY2zP8tjhnc_in0XhezP9erQbU119PYGUFxgRTR7D6E/edit?usp=sharing)
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-59FpKqgPZi4D5lLxSCvNXe_d_sXRoEqEEU0eQiNiIATUQMO4Qa10JpZdwUmUMEt7sX4zH0kBjWVs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+[KC Legal Hackers Telegram Channel](https://t.me/joinchat/GztPEFNo7nslMHxNUM2omw)
 
 ## Schedule
 ------
