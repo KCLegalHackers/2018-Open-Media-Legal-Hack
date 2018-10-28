@@ -2,73 +2,86 @@
 
 ![image](https://user-images.githubusercontent.com/10615650/45719679-efdb8700-bb66-11e8-8c18-8fa801a66136.png)
 
-### [Introduction](https://www.youtube.com/embed/1LluQGq5ezQ)
+## Introduction
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kM2KsdFEw1A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Over the weekend of October 27th and 28th, KC Legal Hackers is partnering with [Kansas City Volunteer Lawyers and Accountants for the Arts (KCVLAA)](http://www.kcvlaa.org/), [Kansas City Artists Coalition](http://kansascityartistscoalition.org/), UMKC Law's Entrepreneurial Legal Services and Intellectual Property Clinics, [KU Legal Hackers]( https://www.facebook.com/groups/152594868767450/), [Code for KC](codeforkc.org), [Endor](https://www.endor.com/), and [Plexpod](https://www.plexpod.com/) to host a node of the [Open Media Legal Hack](legalhackathon.org) 
+Legal Hackers is a global grassroots movement of designers, entrepreneurs, lawyers, policy advocates, researchers, students, teachers, and technologists who explore and develop creative solutions to issues at the intersection of law and technology. We are a volunteer-run, chapter-based community that is free to join and open to all. Legal Hackers is not a commercial enterprise, trade association, or advocacy group.
 
-Kansas City Legal Hackers joins a number of cities, including New York, Boston, Washington D.C., San Francisco, Dallas, Houston, Sao Paulo, Vienna, and Tokyo in hosting a node of a distributed event to hack artist ownership and contract rights for digital music and media. The event will occur online through a series of live hangouts, telegram group chats, and in-person through meetups distributed around the world. The activities include team projects and small group discussions focused on solving key problems and generating new ideas. The event will conclude with the creation of a digital media gallery at openmedia.space and a unified summary of each nodes participation at [legalhackathon.org](legalhackathon.org). 
+The concept of legal hacking is not, however, a new one. Many individuals and organizations do it on a daily basis without realizing it. In fact, TED Radio Hour did a radio show on [Hacking The Law](https://www.npr.org/programs/ted-radio-hour/656578702/hacking-the-law) earlier this month. One segment in particular comprehensively demonstrates how analyzing the business, legal, and technical processes that cause a problem. After taking a look at the reality that, in a lot of instances when people do not have access to money must plead guilty in order to keep their jobs, provide for their families, and continue on with basic human functions that millions of people take for granted, Robin Steinberg helped pioneer the Brooklyn Community Bail Fund. By developing a mechanism for people in a community to pool money and create a safety net for when people can pay bail, this fund has seen a 50% increase in favorable outcomes. And not everything involved is either legal, technical, or design related. Some of the things that the fund helps do are sending out reminders to people for court dates and helping coordinate on basic matters.
 
-If you are interested in participating in our node, reserve your spot on [Eventbrite](https://www.eventbrite.com/e/open-media-legal-hack-kansas-city-tickets-50328683447)
+With this in mind, I am excited to offer a glimpse into what KC Legal Hackers was able to put together this last weekend for the Open Media Legal Hack. The Open Media Legal Hack is a globally distributed event, hosted by nodes of Legal Hacker chapters, with the singular goal of helping make life easier for independent artists and creative types. What our chapter decided to do was to create this resource page with videos and links to content that helps break down some of the most common legal issues facing people in this space and, by open-sourcing everything in this presentation, we encourage people to add to this as a resource by creating a pull request in our GitHub site to help make this as robust as it can be.
 
+In particular, we sought to demystify basic issues regarding intellectual property and contracts. In each of these domains, we provide an overview of the basic considerations for each, a discussion about the potential for technology and design to improve outcomes in the domain, and conclude with some practical strategies that can hopefully benefit anyone trying to work in this area. Beneath each video, there are also some links to some of the referrences and helpful recommended readings. 
 
-[Event Slides](https://docs.google.com/presentation/d/1dY2zP8tjhnc_in0XhezP9erQbU119PYGUFxgRTR7D6E/edit?usp=sharing)
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-59FpKqgPZi4D5lLxSCvNXe_d_sXRoEqEEU0eQiNiIATUQMO4Qa10JpZdwUmUMEt7sX4zH0kBjWVs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+---
+# Legal Guide for Kansas City Independent Creators
 
+## Intellectual Property
 
-#### [KC Legal Hackers Telegram Channel](https://t.me/joinchat/GztPEFNo7nslMHxNUM2omw)
+#### Overview of Intellectual Property for Independent Creators
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTnNH18wyrM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### Participant Questionnaire
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdXp9d5v7j0GUYG87xmUleoo0JN1PvnHdQNTe-z2VCsdzt3Xg/viewform?embedded=true" width="480" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-## Schedule
-------
-## October 23rd, Happy Hour at [Ruins Pub](http://ruinspubkc.com/)
-Come learn about the origins of the Open Media Legal Hack, what Legal Hackers does, figure out how to get involved, and enjoy taco tuesday specials at Ruins Pub. Happy Hour is conveniently located across the street from our day one venue, Plexpod Crossroads. 
-
-* _Happy Hour_
-5:30 pm - 7:00 pm
+###### _Featuring: Danielle Merrick, Bryan Wilson | Note: the camera was meant to be focused on Danielle_
 
 
-------
-## October 27th, Day 1 at [Plexpod Crossroads](https://www.plexpod.com/locations/crossroads/)
+[United States Patent and Trademark Office](https://www.uspto.gov/)
+[Copyright.gov](https://www.copyright.gov/)
 
-* _Registration_
-10:15 am - 10:45 am
+#### The Role of Design and Technology in the Legal Process of IP for Creators
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4bl-oFizJy4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-* _Opening Remarks_
-10:45 am - 10:55 am
+###### _Featuring: Evan Absher, Bryan Wilson_
+[Design Thinking - Wikipedia](https://en.wikipedia.org/wiki/Design_thinking)
+[Applying Design Thinking to Law - Stanford Lawyer](https://law.stanford.edu/stanford-lawyer/articles/legal-design-lab-consumer-contracts/)
+[Code as Law: Using Ethereum Smart Contracts to Ensure Compliance with Federal Tax Law](https://media.consensys.net/code-as-law-using-ethereum-smart-contracts-to-ensure-compliance-with-federal-tax-law-3fc67cb7b956)
+[Alt Legal](https://www.altlegal.com/)
 
------
-### Learn
+#### Practical Strategies for Protecting Intellectual Property
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hjzYjPAzd_k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-The Learn Track will take place from 11:00 am - 2:00 pm, with a break for lunch at 12:00 pm. During this time period, there will be a freeflowing discussion on what the legal and practical landscape looks like for intellectual property rights and contract rights, discuss some basic strategies for how creators can protect their rights, and look at the ways emerging technologies might impact this arena. 
+###### _Featuring: Danielle Merrick, Bryan Wilson_
+[UMKC Law - Entrepreneurial Legal Services Clinic](https://law.umkc.edu/academics/clinical-programs/entrepreneurial-legal-services-clinic/)
+[Kansas City Volunteer Lawyers and Accountants for the Arts](http://kcvlaa.org/apply.htm)
+[LawGives - (via legal.io) - Guides on Intellectual Property](https://www.lawgives.com/search/guides)
+[Visual Watermark](https://www.visualwatermark.com/)
 
-* _Intellectual Property Roundtable for Creators_
-11:00 am - 12:00 pm
 
-* _Contracts Roundtable for Creators_
-1:00 pm - 2:00 pm
+## Contracts
+#### Overview of Contracts for Independent Creators
 
------
-### Build
-The build track or hack track will be open from 11:00 am - 7:00 pm with a break for lunch at 1:00pm. Below are two ideas for suggested projects, though all project submissions are welcome. After the learn track is finished, those participants are encouraged to join a build team to apply insights gained from those sessions.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QIerEj1OMtQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-* _Community dashboard for issues facing artists_
+###### _Featuring: Chris Brown, Bryan Wilson_
+[The Right Way to Use MSAs & SOWs](https://venturelegalkc.com/2017/03/15/the-right-way-to-use-msas-sows/)
+[NDA 101: What is a Non-Disclosure Agreement?](https://www.rocketlawyer.com/article/nda-101:-what-is-a-non-disclosure-agreement.rl)
 
-* _Creative works for digital media gallery at [openmedia.space](http://openmedia.space/)_
+#### The Role of Design and Technology in the Legal Process of Contracts for Creators
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jd0WNx4lZCMfasdf" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-----------
-## October 28th, Day 2 at [Kansas City Artists Coalition](http://kansascityartistscoalition.org/visitDirections.php)
+###### _Featuring: Chris Brown, Bryan Wilson_
+[LawGives](https://www.lawgives.com/) - a referral network with free quotes and consultations with lawyers + resources for attorneys
+[Contract Canvas](http://contractcanvas.com/)
 
-### Discuss
+#### Strategies for Getting in Touch with Contract Attorneys
 
-Bringing it all together is the discuss session. During this time we will talk about a key change coming to the music industry, let teams from the Build track present the ideas they worked on, and talk about how all of this energy can be leveraged to continue to improve these creative interactions taking place in our community.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jd0WNx4lZCM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-* _Overview of the Music Modernization Act_
-10:30 am - 11:00 am
+###### _Featuring: Danielle Merrick, Chris Brown, Bryan Wilson_
+[UMKC Law - Entrepreneurial Legal Services Clinic](https://law.umkc.edu/academics/clinical-programs/entrepreneurial-legal-services-clinic/)
+[Venture Legal Contract Shop](https://venturelegalkc.com/contract-shop/)
+LawGives _(via legal.io)_ - [Guides on Contracts](https://www.lawgives.com/search/guides)
 
-* _Project Presentations_
-11:00 am - 11:45 am
+## Community Partners
 
-* _Closing Remarks_
-11:45 am - 12:00 pm
+A special thanks to our community partners, without which, this event would not have been possible:
+
+[Kansas City Volunteer Lawyers and Accountants for the Arts (KCVLAA)](http://www.kcvlaa.org/)
+[Kansas City Artists Coalition](http://kansascityartistscoalition.org/)
+[UMKC Law's Entrepreneurial Legal Services and Intellectual Property Clinics](https://law.umkc.edu/academics/clinical-programs/entrepreneurial-legal-services-clinic/) 
+[KU Legal Hackers](https://www.facebook.com/groups/152594868767450/)
+[Code for KC](codeforkc.org)
+[Endor](https://www.endor.com/)
+[Plexpod](https://www.plexpod.com/)
+
+If you ever have any issues in this space, reach out to someone at one of these organizations and they will be more than willing to help
+ach of these organizations 
