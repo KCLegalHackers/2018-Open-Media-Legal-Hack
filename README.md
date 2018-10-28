@@ -24,26 +24,26 @@ In particular, we sought to demystify basic issues regarding intellectual proper
 ###### _Featuring: Danielle Merrick, Bryan Wilson | Note: the camera was meant to be focused on Danielle_
 
 
-[United States Patent and Trademark Office](https://www.uspto.gov/)
-[Copyright.gov](https://www.copyright.gov/)
+* [United States Patent and Trademark Office](https://www.uspto.gov/)
+* [Copyright.gov](https://www.copyright.gov/)
 
 #### The Role of Design and Technology in the Legal Process of IP for Creators
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4bl-oFizJy4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ###### _Featuring: Evan Absher, Bryan Wilson_
-[Design Thinking - Wikipedia](https://en.wikipedia.org/wiki/Design_thinking)
-[Applying Design Thinking to Law - Stanford Lawyer](https://law.stanford.edu/stanford-lawyer/articles/legal-design-lab-consumer-contracts/)
-[Code as Law: Using Ethereum Smart Contracts to Ensure Compliance with Federal Tax Law](https://media.consensys.net/code-as-law-using-ethereum-smart-contracts-to-ensure-compliance-with-federal-tax-law-3fc67cb7b956)
-[Alt Legal](https://www.altlegal.com/)
+* [Design Thinking - Wikipedia](https://en.wikipedia.org/wiki/Design_thinking)
+* [Applying Design Thinking to Law - Stanford Lawyer](https://law.stanford.edu/stanford-lawyer/articles/legal-design-lab-consumer-contracts/)
+* [Code as Law: Using Ethereum Smart Contracts to Ensure Compliance with Federal Tax Law](https://media.consensys.net/code-as-law-using-ethereum-smart-contracts-to-ensure-compliance-with-federal-tax-law-3fc67cb7b956)
+* [Alt Legal](https://www.altlegal.com/)
 
 #### Practical Strategies for Protecting Intellectual Property
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hjzYjPAzd_k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ###### _Featuring: Danielle Merrick, Bryan Wilson_
-[UMKC Law - Entrepreneurial Legal Services Clinic](https://law.umkc.edu/academics/clinical-programs/entrepreneurial-legal-services-clinic/)
-[Kansas City Volunteer Lawyers and Accountants for the Arts](http://kcvlaa.org/apply.htm)
-[LawGives - (via legal.io) - Guides on Intellectual Property](https://www.lawgives.com/search/guides)
-[Visual Watermark](https://www.visualwatermark.com/)
+* [UMKC Law - Entrepreneurial Legal Services Clinic](https://law.umkc.edu/academics/clinical-programs/entrepreneurial-legal-services-clinic/)
+* [Kansas City Volunteer Lawyers and Accountants for the Arts](http://kcvlaa.org/apply.htm)
+* [LawGives - (via legal.io) - Guides on Intellectual Property](https://www.lawgives.com/search/guides)
+* [Visual Watermark](https://www.visualwatermark.com/)
 
 
 ## Contracts
@@ -52,24 +52,24 @@ In particular, we sought to demystify basic issues regarding intellectual proper
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QIerEj1OMtQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ###### _Featuring: Chris Brown, Bryan Wilson_
-[The Right Way to Use MSAs & SOWs](https://venturelegalkc.com/2017/03/15/the-right-way-to-use-msas-sows/)
-[NDA 101: What is a Non-Disclosure Agreement?](https://www.rocketlawyer.com/article/nda-101:-what-is-a-non-disclosure-agreement.rl)
+* [The Right Way to Use MSAs & SOWs](https://venturelegalkc.com/2017/03/15/the-right-way-to-use-msas-sows/)
+* [NDA 101: What is a Non-Disclosure Agreement?](https://www.rocketlawyer.com/article/nda-101:-what-is-a-non-disclosure-agreement.rl)
 
 #### The Role of Design and Technology in the Legal Process of Contracts for Creators
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jd0WNx4lZCMfasdf" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ###### _Featuring: Chris Brown, Bryan Wilson_
-[LawGives](https://www.lawgives.com/) - a referral network with free quotes and consultations with lawyers + resources for attorneys
-[Contract Canvas](http://contractcanvas.com/)
+* [LawGives](https://www.lawgives.com/) - a referral network with free quotes and consultations with lawyers + resources for attorneys
+* [Contract Canvas](http://contractcanvas.com/)
 
 #### Strategies for Getting in Touch with Contract Attorneys
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jd0WNx4lZCM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ###### _Featuring: Danielle Merrick, Chris Brown, Bryan Wilson_
-[UMKC Law - Entrepreneurial Legal Services Clinic](https://law.umkc.edu/academics/clinical-programs/entrepreneurial-legal-services-clinic/)
-[Venture Legal Contract Shop](https://venturelegalkc.com/contract-shop/)
-LawGives _(via legal.io)_ - [Guides on Contracts](https://www.lawgives.com/search/guides)
+* [UMKC Law - Entrepreneurial Legal Services Clinic](https://law.umkc.edu/academics/clinical-programs/entrepreneurial-legal-services-clinic/)
+* [Venture Legal Contract Shop](https://venturelegalkc.com/contract-shop/)
+* LawGives _(via legal.io)_ - [Guides on Contracts](https://www.lawgives.com/search/guides)
 
 ## Community Partners
 
