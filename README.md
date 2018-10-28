@@ -77,5 +77,7 @@ A special thanks to our community partners, without which, this event would not 
 
 [Kansas City Volunteer Lawyers and Accountants for the Arts (KCVLAA)](http://www.kcvlaa.org/) | [Kansas City Artists Coalition](http://kansascityartistscoalition.org/) | [UMKC Law's Entrepreneurial Legal Services and Intellectual Property Clinics](https://law.umkc.edu/academics/clinical-programs/entrepreneurial-legal-services-clinic/) | [KU Legal Hackers](https://www.facebook.com/groups/152594868767450/) | [Code for KC](codeforkc.org) | [Endor](https://www.endor.com/) | [Plexpod](https://www.plexpod.com/)
 
-If you ever have any issues in this space, reach out to someone at one of these organizations and they will be more than willing to help
-ach of these organizations 
+If you ever have any issues in this space, reach out to someone at one of these organizations and they will be more than willing to help you figure out your problems
+
+![image](https://user-images.githubusercontent.com/10615650/47621136-48d10000-dac1-11e8-88e9-af5485c4e2f1.png)
+###### Featured Artist: Abby Yemm [@abbyyemm](https://twitter.com/abbyyemm?lang=en) 
