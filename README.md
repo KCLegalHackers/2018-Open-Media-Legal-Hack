@@ -25,7 +25,9 @@ In particular, we sought to demystify basic issues regarding intellectual proper
 
 
 * [United States Patent and Trademark Office](https://www.uspto.gov/)
-* [Copyright.gov](https://www.copyright.gov/)
+* [Copyright Registration](https://www.copyright.gov/registration/)
+* [Fair Use of Intellectual Property](https://copyright.cornell.edu/fairuse)
+* [Digital Millenium Copyright Act](https://www.law.cornell.edu/wex/digital_millennium_copyright_act)
 
 #### The Role of Design and Technology in the Legal Process of IP for Creators
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4bl-oFizJy4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -70,6 +72,8 @@ In particular, we sought to demystify basic issues regarding intellectual proper
 * [UMKC Law - Entrepreneurial Legal Services Clinic](https://law.umkc.edu/academics/clinical-programs/entrepreneurial-legal-services-clinic/)
 * [Venture Legal Contract Shop](https://venturelegalkc.com/contract-shop/)
 * LawGives _(via legal.io)_ - [Guides on Contracts](https://www.lawgives.com/search/guides)
+* [Help Other VLAAs](https://vlaa.org/get-help/other-vlas/)
+* [Get Smart - VLAA Publications](https://vlaa.org/get-smart/publications/)
 
 ## Community Partners
 
